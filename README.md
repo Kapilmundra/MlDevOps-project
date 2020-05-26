@@ -1,5 +1,8 @@
 # MlDevOps-project
 
+## Article link
+https://www.linkedin.com/posts/kapil-mundra-2a7960194_mlops-agendaabrofabrproject-job1-activity-6670952274384318464-J9-S
+
 ## Agenda_of_project -
 1. Create container image that has Python3 and Keras or numpy installed using Dockerfile.
 
