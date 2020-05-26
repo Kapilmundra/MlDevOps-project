@@ -1,4 +1,4 @@
-# MlDevOps-project
+## MlDevOps-project
 
 # Agenda_of_project -
 1. Create container image that has Python3 and Keras or numpy installed using Dockerfile.
@@ -16,6 +16,5 @@ By looking at the code or program file, Jenkins should automatically start the r
 # Job3 : 
 Train your model and predict accuracy or metrics. if metrics accuracy is less than 90% , then Tweak the machine learning model architecture , Retrain the model and notify the developer that the best model is being created successfully.
 
-
-#Job4 : 
+# Job4 : 
 If container where app is running, fails due to any reason then this job should automatically start the container again from where the last trained model left.
